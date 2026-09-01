@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 Olá, eu sou Marcos Vinicios
-
 ### Software Developer • Automation • Data • Cloud 🚀
 
 <p>
