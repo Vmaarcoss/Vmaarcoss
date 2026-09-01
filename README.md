@@ -8,7 +8,7 @@
   <a href="https://github.com/Vmaarcoss">
     <img src="https://img.shields.io/badge/GitHub-Vmaarcoss-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/marcos-alves-02174b24b/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
