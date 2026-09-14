@@ -14,13 +14,6 @@
 </div>
 
 ---
-
-## 👨‍💻 Sobre mim
-
-Sou desenvolvedor e gosto de transformar ideias em software.
-
-Tenho foco em **desenvolvimento web, automação, dados, cloud e inteligência artificial**. Gosto de construir projetos do zero, testar novas tecnologias e transformar problemas reais em soluções práticas.
-
 > `build something real. 🚀`
 
 ---
