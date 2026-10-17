@@ -28,33 +28,6 @@
 
 </div>
 
----
-
-## 🎯 Atualmente
-
-- 🚀 Construindo projetos próprios
-- 🤖 Explorando IA e automação
-- ☁️ Aprofundando conhecimentos em Cloud
-- 📊 Trabalhando com dados e ETL
-- 💻 Evoluindo como desenvolvedor
-- 💡 Transformando ideias em produtos
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-<a href="https://github.com/Vmaarcoss">
-<img src="https://img.shields.io/badge/GitHub-Vmaarcoss-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<!-- Troque pelo seu LinkedIn real -->
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
 
 <br>
 
