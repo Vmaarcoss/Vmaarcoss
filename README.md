@@ -90,26 +90,6 @@
   <img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white">
 </p>
 
----
-
-## 🚀 Projetos em destaque
-
-### 🧠 Veriq
-Plataforma de **simulação de entrevistas técnicas com IA**, com conversa por voz e geração de feedback sobre o desempenho do candidato.
-
-**Stack:** Next.js • TypeScript • FastAPI • PostgreSQL • Redis • IA
-
-### 🤖 Atendimento com IA
-Boilerplate reutilizável para sistemas de atendimento via WhatsApp com integração de IA e arquitetura preparada para múltiplos provedores.
-
-**Stack:** Node.js • TypeScript • WhatsApp • IA • PostgreSQL • Docker
-
-### 🏥 Clínica Vida+
-Sistema acadêmico de gestão de pacientes com cadastro, estatísticas, fila FIFO, lógica booleana e interface gráfica.
-
-**Stack:** Python • SQLite • Tkinter
-
----
 
 ## 📊 GitHub Stats
 
