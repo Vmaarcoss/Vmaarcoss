@@ -1,9 +1,7 @@
-
-
 <br>
 
 <div align="center">
 
-### `CREATE • BUILD • SHIP 🚀`
+### `I CREATE, NOT CONSUME`
 
 </div>
